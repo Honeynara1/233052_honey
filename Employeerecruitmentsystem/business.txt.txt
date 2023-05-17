@@ -1,0 +1,20 @@
+Business Entities for an Employee Recruitment System:
+
+1. Candidate:
+   - Attributes: Candidate ID, Name, Email, Phone, Resume, etc.
+   - Responsibilities: Apply for jobs, provide required information, update profile, etc.
+
+2. Job:
+   - Attributes: Job ID, Title, Description, Requirements, Application Deadline, etc.
+   - Responsibilities: Create job postings, manage job details, track application status, etc.
+
+3. Application:
+   - Attributes: Application ID, Candidate ID, Job ID, Status, etc.
+   - Responsibilities: Submit applications, track application status, update application details, etc.
+
+4. Interview:
+   - Attributes: Interview ID, Date, Time, Location, Application ID, etc.
+   - Responsibilities: Schedule interviews, conduct interviews, update interview details, etc.
+
+These business entities represent the main actors or objects involved in the employee recruitment system. Each entity has its own attributes and responsibilities that are essential for managing the recruitment process effectively.
+
